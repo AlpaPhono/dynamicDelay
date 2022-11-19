@@ -21,4 +21,7 @@ The decision to make the delay plugins interface appear like a compressors was m
 - Metering (Feedback/ Gain Reduction)
 <br/>
 ## Manual
+### General 
+- **DelayTime:** The delay time knob adjust the output of the delayed signal in ms. The further right the knob is turned the more delayed the signal will be.
+- **FEEDBACK*:** Controls the amount of delay feedback
 
